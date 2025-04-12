@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Project
 
-🎉 Hello there! I'm **Jami Ravikumar**.
+🎉 Hello there! I'm **Jami Ravikumar**
 
 🧪 I work as a **Quality Testing Engineer** at **LTIMindtree Pvt Ltd**, with expertise in **AEM Testing, Manual QA, UAT Planning**, and currently growing in **Selenium Automation**!
 
